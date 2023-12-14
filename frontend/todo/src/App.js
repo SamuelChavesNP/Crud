@@ -4,6 +4,8 @@ import './index.css';
 import axios from 'axios'
 
 function App() {
+  document.title = 'CRUD Full Stack';
+
   async function createTodo() {
     const response = await axios.post("http://localhost:3333/todos", 
     {name: inputValue, });
