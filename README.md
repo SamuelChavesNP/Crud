@@ -7,13 +7,18 @@
 </h1><br>
 
 ## 📋 Sobre 
-O projeto **Crud Full Stack** é uma lista de tarefas aonde você pode adicionar, remover, editar e ler tarefas.
+O projeto **Crud Full Stack** é uma lista de tarefas aonde você pode adicionar, remover, editar e ler tarefas. 
 <br><br><br>
 
 ## 💻 Tecnologias
 - [React.js](https://reactjs.org)
 - [Express.Js](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
+- [Docker](https://www.docker.com/)
+  <br><br><br>
+
+## 💾 Ambiente 
+- [Node](https://nodejs.org/en)
 - [Docker](https://www.docker.com/)
   <br><br><br>
 
